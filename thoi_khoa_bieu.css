@@ -1,0 +1,49 @@
+body {
+    background-color: #fff;
+}
+
+h1 {
+    color: blue;
+    font-size: 30px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+ul {
+    margin: 0px;
+    padding: 0px;
+}
+
+.tkb1 {
+    font-size: 21px;
+    text-transform: capitalize;
+    float: left;
+    margin-left: 200px;
+    list-style: none;
+    color: blue;
+}
+
+.tkb2 {
+    float: right;
+    font-size: 21px;
+    list-style: none;
+    text-transform: capitalize;
+    margin-right: 160px;
+    color: blue;
+}
+
+table {
+    margin-top: 120px;
+    font-size: 30px;
+    text-transform: capitalize;
+    text-align: center;
+    margin-left: 215px;
+}
+
+.name {
+    background-color: yellow;
+}
+
+.class {
+    background-color: orange;
+}
